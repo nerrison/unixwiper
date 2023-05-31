@@ -30,5 +30,3 @@ print("Removing cache files...")
 os.system("rm -rf /Library/Caches/*")
 
 print("Done!")
-
-
